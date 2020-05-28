@@ -1,0 +1,22 @@
+button {
+    border: none;
+    background: transparent;
+    color: white;
+}
+
+#top {
+    background: linear-gradient(rgba(68, 68, 68, 0.288), rgba(59, 59, 59, 0.25)), url("https://blogsimages.adobe.com/creative/files/2019/08/Header_Fotolia_189477034_L.jpg");
+    background-size: cover;
+}
+
+#overlay {
+    color: white;
+}
+
+#title {
+    font-size: 6rem;
+}
+
+a {
+    color: black;
+}
